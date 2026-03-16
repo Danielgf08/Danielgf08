@@ -1,122 +1,133 @@
-# Hi, I'm Daniel Galicia 👋
+<div align="center">
 
-**Software Developer** · State of Mexico  
-Bachelor's Degree in Software Development and Management Engineering @ Universidad Tecnológica de Tecámac
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Daniel%20Galicia&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Web3%20%7C%20AI&descAlignY=58&descSize=18&descColor=a78bfa"/>
+
+[![Email](https://img.shields.io/badge/galicia.dani08@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:galicia.dani08@gmail.com)
+[![GitHub](https://img.shields.io/badge/Danielgf08-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Danielgf08)
+![Location](https://img.shields.io/badge/State%20of%20Mexico-MX-06b6d4?style=flat-square&logo=googlemaps&logoColor=white)
+
+</div>
 
 ---
 
-## About me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> &nbsp;**About me**
 
 I'm a software developer passionate about building real-world applications. I've worked on inventory systems, REST APIs, and database-driven apps — always focused on writing clean, functional code.
 
-Currently strengthening my skills through personal projects covering backend development, blockchain, and AI integrations.
+Currently strengthening my skills through personal projects covering **backend development**, **blockchain**, and **AI integrations**.
 
-- 🔭 Working on: personal projects to deepen my backend & Web3 skills
-- 🌱 Currently learning: TypeScript, Django, Solana blockchain
-- 💼 Open to: junior developer roles & internships
-- 📫 Reach me at: galicia.dani08@gmail.com
+```
+🔭  Working on   →  personal projects in backend & Web3
+🌱  Learning     →  TypeScript · Django · Solana blockchain
+💼  Looking for  →  junior developer roles & internships
+📍  Based in     →  State of Mexico, MX
+```
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django&theme=dark"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css&theme=dark"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark"/>
+</p>
+
+### Infrastructure & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/>
+</p>
+
+### Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SUI-4CA2FF?style=for-the-badge&logo=sui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Data-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## 💼 Experience
 
 <table>
   <tr>
-    <td align="center" width="130">
-      <strong>Languages</strong>
-    </td>
+    <td width="60" align="center">✈️</td>
     <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <strong>Web Development Intern</strong> — C.I.D.T.F.A. (Mexican Air Force R&D Center)<br/>
+      <sub>May 2024 – August 2024</sub><br/><br/>
+      Built an inventory management web app for a SEDENA store. Implemented CRUD operations and role-based user management using HTML, CSS, JavaScript, PHP, and Node.js.
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <strong>Backend</strong>
-    </td>
+    <td width="60" align="center">🚗</td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Frontend</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Databases</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Infra & Net</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Interests</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI%20%26%20Data-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cybersecurity-00C853?style=flat-square&logo=hackthebox&logoColor=white"/>
+      <strong>Capstone Project — Car Dealership Management System</strong><br/>
+      <sub>Sep 2024 – Dec 2024</sub><br/><br/>
+      Designed the full database schema for customers, vehicles, and employees. Built a Java app with layered architecture, remote access, stored procedures, and CRUD operations on MySQL.
     </td>
   </tr>
 </table>
 
 ---
 
-## Experience
+## 🚀 Featured Projects
 
-**Web Development Intern** · C.I.D.T.F.A. (Mexican Air Force R&D Center)  
-*May 2024 – August 2024*  
-Built an inventory management web app for a SEDENA store. Implemented CRUD operations and role-based user management using HTML, CSS, JavaScript, PHP, and Node.js.
+<div align="center">
 
-**Capstone Project — Car Dealership Management System**  
-*Sep 2024 – Dec 2024*  
-Designed the full database schema for customers, vehicles, and employees. Built a Java app with layered architecture, remote access, stored procedures, and CRUD operations on MySQL.
+| Project | Description | Stack | Repo |
+|---------|-------------|-------|------|
+| **task-api** | REST API with JWT auth, bcrypt encryption & Zod validation | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | [🔗 View](https://github.com/Danielgf08/task-api) |
 
----
+> 🔄 More projects being added as I build them...
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [task-api](https://github.com/Danielgf08/task-api) | REST API with JWT auth, bcrypt encryption, and Zod validation | Node.js · Express · PostgreSQL |
-
-> More projects coming soon 🚀
+</div>
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- 📋 IT Essentials – PC Hardware and Software · Cisco
-- 🌐 CCNAv7 – Switching, Routing & Wireless Essentials · Cisco
-- 🐧 NDG Linux Essentials · Linux Professional Institute
+<div align="center">
+
+![Cisco](https://img.shields.io/badge/IT%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/CCNAv7%20Switching%20%26%20Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/NDG%20Linux%20Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielgf08&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielgf08&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielgf08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielgf08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielgf08&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="160"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+</div>
