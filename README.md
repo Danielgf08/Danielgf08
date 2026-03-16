@@ -49,7 +49,7 @@ Software developer currently finishing my Bachelor's in Software Development & M
 | **Frontend** | <img height="32" src="https://skillicons.dev/icons?i=react,vue,html,css&theme=dark"/> |
 | **Databases** | <img height="32" src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark"/> |
 | **Infra & Tools** | <img height="32" src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/> |
-| **Exploring** | <img height="32" src="https://skillicons.dev/icons?i=solidity&theme=dark"/> &nbsp;<img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/SUI-4CA2FF?style=flat-square&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/AI%20%26%20Data-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> |
+| **Exploring** | <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/SUI-4CA2FF?style=flat-square&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/AI%20%26%20Data-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> 
 
 </div>
 
