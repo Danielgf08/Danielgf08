@@ -1,20 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hey,%20I'm%20Daniel%20👋&fontSize=42&fontAlignY=45&desc=Backend%20Developer%20·%20Web3%20·%20AI%20Enthusiast&descAlignY=68&descSize=16&fontColor=fff&descColor=fff" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Daniel%20Galicia&fontSize=56&fontColor=ffffff&fontAlignY=55&fontAlign=70&desc=Software%20Developer&descSize=18&descColor=7c86ee&descAlignY=75&descAlign=71&reversal=false&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<p align="center">
-  <a href="mailto:galicia.dani08@gmail.com">
-    <img src="https://img.shields.io/badge/-galicia.dani08@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Danielgf08">
-    <img src="https://img.shields.io/badge/-Danielgf08-24292e?style=flat&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/-State%20of%20Mexico%2C%20MX-6f42c1?style=flat&logo=googlemaps&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat&logo=checkmarx&logoColor=white"/>
-</p>
+<a href="mailto:galicia.dani08@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Danielgf08">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Mexico-Open%20to%20Work-7c86ee?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=7C86EE&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Backend+%7C+Web3+%7C+AI+Enthusiast;Building+real+software%2C+one+commit+at+a+time.)
+
+</div>
 
 <br/>
 
